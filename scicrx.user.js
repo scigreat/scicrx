@@ -5,8 +5,8 @@
 // @homepage     https://www.hezibuluo.com/158935.html
 // @namespace    https://www.hezibuluo.com/158935.html
 // @description  👆👆👆 SciHub CRX 油猴版，超级好用的 SCI 科研助手，完美支持 Sci-Hub、Libgen、unpaywall、OA Button、Pubmed、OpenAlex、CORE、ResearchGate、SemanticScholar 等数据库，访问文献网页时，会在文献DOI/PMID/PMCID后面添加 SciHub CRX 图标，点击图标可获取详细文章信息，如IF、分区、引用次数、文章 PDF 等，点击 PDF 图标可跳转到下载页，完美支持知网，百度学术，谷歌学术（镜像），Scopus，WOS，Springer，IEEE，PubMed，ReadPaper，ScienceDirect 等 400 多个学术期刊网站显示期刊详细等级信息（如JCR/中科院分区、IF/JCI、北大/南大核心、CCF 等 80 多个数据库索引情况），支持显示 985、211、双一流 等学校分类，支持通过 PubPeer、Amend、Retraction Watch 检测学术不端行为，支持文章引用下载功能（包括RIS、BibText、Endnote、GB/T等），点击谷歌学术链接时，自动替换为其他谷歌学术网址，支持网页翻译功能，支持部分文献 AI Summary 功能，基于 GPT NLP 技术生成简短的论文摘要。
-// @updateURL    https://s.ooopn.com/sg/scicrx/scicrx.user.js
-// @downloadURL  https://s.ooopn.com/sg/scicrx/scicrx.user.js
+// @updateURL    https://raw.gitcode.com/scigreat/scicrx/raw/main/scicrx.user.js
+// @downloadURL  https://raw.gitcode.com/scigreat/scicrx/raw/main/scicrx.user.js
 // @license      AGPL-3.0-or-later
 // @grant        unsafeWindow
 // @grant        GM_info
